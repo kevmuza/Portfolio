@@ -46,7 +46,7 @@ Portfolio of academic data analytics projects developed with Python, SQL, Power 
 
 
 
-  # 2) Urban Mobility & Economic Productivity Analysis (Python)
+  # 2) Conversion Funnel & User Retention Analysis (SQL, Excel)
   # 🧾 # Executive Summary – SQL Data Analysis and Optimization Project
 
  **Context and Objective**
